@@ -2,7 +2,7 @@
 
 
 ### Contente por te ver aqui!
-- 🎓 &nbsp; Formada em Bacharelado em Estatística pela Universidade Júlio Mesquita Filho (Unesp).
+- 🎓 &nbsp; Formada em Bacharelado em Estatística pela Universidade Estadual Júlio de Mesquita Filho (Unesp).
 - 🛠 &nbsp;  Atualmente não estou trabalhando.
 - ✨ &nbsp;  Sempre tentando aprender coisas novas.
 
