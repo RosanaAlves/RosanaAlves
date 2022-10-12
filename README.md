@@ -1,4 +1,4 @@
-### Olá 👋, Bem vindo ao meu perfil do GitHub ![Visitas](https://visitor-badge.glitch.me/badge?page_id=RosanaAlves.RosanaAlves&style=flat-square&color=0088cc)
+### Olá 👋, Bem vindo ao meu perfil do GitHub 
 
 
 ### Contente por te ver aqui!
@@ -14,9 +14,5 @@
 - 🚀 &nbsp;  Em busca de uma vaga de emprego na área.
 - 📫 &nbsp; Meu e-mail para contato: rosanaalvesmolina7@gmail.com
 - 📫 &nbsp; Como me encontrar no linkedin: https://www.linkedin.com/in/rosana-alves-molina
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosanaAlves&show_icons=true&theme=dark)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosanaAlves&layout=demo&theme=dark)
