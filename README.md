@@ -2,9 +2,9 @@
 
 
 ### Contente por te ver aqui!
-- 🎓 &nbsp; Formada em Bacharelado em Estatística pela Universidade Estadual Júlio de Mesquita Filho (Unesp).
-- 🛠 &nbsp;  Atualmente não estou trabalhando.
-- ✨ &nbsp;  Sempre tentando aprender coisas novas.
+- 🎓 &nbsp; Formada em Bacharelado em Estatística pela Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP).
+- 🛠 &nbsp;  Estou em busca de recolocação profissional.
+- ✨ &nbsp;  Sempre procurando aprender coisas novas.
 
 ### Sobre mim:
 - 🤓 &nbsp; Atualmente estudando Ciência de dados, Machine learning, Python, R e SQL.
