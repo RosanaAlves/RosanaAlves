@@ -2,7 +2,7 @@
 
 
 ### Contente por te ver aqui!
-- 🎓 &nbsp; Sou formada em Estatística pela Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP).
+- 🎓 &nbsp; Sou formada em Estatística pela UNESP.
 - 🎓 &nbsp; Estou cursando ciência de dados na UNIVESP.
 - 🛠 &nbsp; Estou em busca de recolocação profissional.
 
