@@ -1,10 +1,10 @@
-### Olá 👋, Bem vindo ao meu perfil do GitHub 
+### Olá, Bem vindo ao meu perfil do GitHub 
 
 
 ### Contente por te ver aqui!
-- 🎓 &nbsp; Formada em Bacharelado em Estatística pela Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP).
-- 🛠 &nbsp;  Estou em busca de recolocação profissional.
-- ✨ &nbsp;  Sempre procurando aprender coisas novas.
+- 🎓 &nbsp; Sou formada em Estatística pela Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP).
+- 🎓 &nbsp; Estou cursando ciência de dados na UNIVESP.
+- 🛠 &nbsp; Estou em busca de recolocação profissional.
 
 ### Sobre mim:
 - 🤓 &nbsp; Atualmente estudando Análise de dados, Ciência de dados, modelos de Machine learning, Python, R e SQL.
