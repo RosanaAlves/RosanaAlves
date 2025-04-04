@@ -4,7 +4,6 @@
 ### Contente por te ver aqui!
 - 🎓 &nbsp; Sou formada em Estatística pela UNESP.
 - 🎓 &nbsp; Estou cursando ciência de dados na UNIVESP.
-- 🛠 &nbsp; Estou em busca de recolocação profissional.
 
 ### Sobre mim:
 -  &nbsp; Atualmente estudando Análise de dados, Ciência de dados, modelos de Machine learning, Python, R e SQL.
